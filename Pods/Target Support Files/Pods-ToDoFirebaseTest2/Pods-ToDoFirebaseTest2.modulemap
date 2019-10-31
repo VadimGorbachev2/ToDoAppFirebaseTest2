@@ -1,0 +1,6 @@
+framework module Pods_ToDoFirebaseTest2 {
+  umbrella header "Pods-ToDoFirebaseTest2-umbrella.h"
+
+  export *
+  module * { export * }
+}
